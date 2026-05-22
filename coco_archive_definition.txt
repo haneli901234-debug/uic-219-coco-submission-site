@@ -1,0 +1,2 @@
+[
+('model-fit-rastrigin-bbob-f03.tgz', '5fca3715f1c2e69d237c1f496290aba2d9bf2c72719303628d43e693afd896ef', 47)]
